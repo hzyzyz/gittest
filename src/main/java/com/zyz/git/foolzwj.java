@@ -9,6 +9,7 @@ package com.zyz.git;
 
 public class foolzwj {
     public static void main(String[] args) {
-        System.out.println("朱文举，是一个傻瓜!!!!!");
+        System.out.println("朱文举，是一个大帅比!!!!!");
+        System.out.println("韩志永单身四十年!!!!!");
     }
 }
